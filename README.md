@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alessando Ceni, I have 24 years old and I'm a Industrial Engineer
-- 👀 I’m currectly trying to run my own startup based on a match making system withing multisided platforms
+- 👀 I’m currectly trying to learn, as much and quick as I can, how I can exploit the power of AI and coding
 - 🌱 I’m currently learning how to be the best middleman between the tech and the business part 
 - 📫 You can reach me on linkedin (alessandro ceni), on Instagram (alessandroceni) or on Whatsapp (+393400631253) whenvever you prefer, I love meet and talk with new people.
 
